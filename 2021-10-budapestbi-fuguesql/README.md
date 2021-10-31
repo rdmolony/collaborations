@@ -1,7 +1,7 @@
 # BudapestBI FugueSQL presentation
 
 [![Kaggle](https://img.shields.io/badge/launch-kaggle-blue)](https://www.kaggle.com/rdmolony/2021-10-budapestbi-fuguesql-workshop)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdmolony/demos/tree/main/2021-10-budapestbi-fuguesql/workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rdmolony/demos/blob/main/2021-10-budapestbi-fuguesql/workshop.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdmolony/demos/HEAD?labpath=2021-10-budapestbi-fuguesql%2Fworkshop.ipynb)
 
 > Developed in partnership with @kvnkho
