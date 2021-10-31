@@ -1,0 +1,27 @@
+name: budapestbi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+
+  # notebook dependencies
+  - pandas
+  - dask
+  - pyspark
+  - dask-sql
+  - scikit-learn  
+
+  # fetching data
+  - s3fs
+
+  # fugue dependencies
+  - triad
+  - adagio
+  - werkzeug
+  - six
+  - ciso8601
+  - fs
+
+  - pip
+  - pip:
+    - fugue[all]
