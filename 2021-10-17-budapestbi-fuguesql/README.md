@@ -1,7 +1,6 @@
 # BudapestBI FugueSQL presentation
 
-[![Kaggle](https://img.shields.io/badge/launch-kaggle-blue)](https://www.kaggle.com/rdmolony/2021-10-budapestbi-fuguesql-workshop)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdmolony/demos/HEAD?labpath=2021-10-budapestbi-fuguesql%2Fworkshop.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdmolony/demos/HEAD?labpath=2021-10-17-budapestbi-fuguesql%2Fworkshop.ipynb)
 
 > Developed in partnership with @kvnkho
 
