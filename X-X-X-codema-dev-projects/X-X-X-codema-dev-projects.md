@@ -1,4 +1,4 @@
-# From Excel to Python via Ploomber
+# From Excel to Visualization via Ploomber
 
 This short article is relevant to you if ...
 
