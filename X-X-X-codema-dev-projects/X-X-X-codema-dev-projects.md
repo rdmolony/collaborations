@@ -8,6 +8,7 @@ This short article is relevant to you if ...
 - You seek more reproducibility & automation (downloading, wrangling, saving data)
 - You are willing to put in the time to learn a few basic `Python` based tools
 
+> Thanks Ido Michael ([@idomic](https://github.com/idomic)) for reviewing this article!
 
 ---
 
