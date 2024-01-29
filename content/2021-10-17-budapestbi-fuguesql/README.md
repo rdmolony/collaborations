@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rdmolony/demos/HEAD?labpath=2021-10-17-budapestbi-fuguesql%2Fworkshop.ipynb)
 
-> Developed in partnership with @kvnkho
+> Developed in partnership with @kvnkho from the [`Fugue`](https://github.com/fugue-project/fugue) team
 
 In this session we will be introduce FugueSQL, a language that allows heavy SQL users to work on Python-based DataFrames.
 
